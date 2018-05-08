@@ -34,6 +34,15 @@ img[alt="cineplanet"]{
     background-color: #1360a5;
     color: white;
 }
+
+img[alt="title-sede"]{
+    margin-left: 2rem;
+}
+
+img[alt="title-horario"]{
+    margin-left: 7rem;
+}
+
 .text{
     color: #145ea7;
 }
