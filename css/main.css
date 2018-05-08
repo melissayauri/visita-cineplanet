@@ -30,3 +30,10 @@ img[alt="cineplanet"]{
 .line{
     outline: 1px solid red;
 }
+.color-table{
+    background-color: #1360a5;
+    color: white;
+}
+.text{
+    color: #145ea7;
+}
